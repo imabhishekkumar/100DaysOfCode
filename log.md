@@ -21,5 +21,6 @@
 **Today's Progress**: Implemented Facebook and Google sign in using Firebase for a private repo for college. Also used Firebase Firestore which is in beta version as of now. 
 
 **Thoughts:** Will learn to do the same using Flutter soon.
+
 **Link to work:**  ~Private repo~
 
