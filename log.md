@@ -24,3 +24,12 @@
 
 **Link to work:**  ~Private repo~
 
+### Day 4: March 2, 2019
+
+**Today's Progress**: Switched from Android Studio to VS Code. Created a login page and learned how to add assets to the project.
+
+**Thoughts:** Getting used to VS Code environment and will implement Firebase on this project.
+
+**Link to work:**  [Flutter-Login](https://github.com/imabhishekkumar/Flutter-Login)
+
+
