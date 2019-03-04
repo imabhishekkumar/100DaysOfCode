@@ -32,4 +32,20 @@
 
 **Link to work:**  [Flutter-Login](https://github.com/imabhishekkumar/Flutter-Login)
 
+### Day 5: March 3, 2019
+
+**Today's Progress**: Working on my personal website.
+
+**Thoughts:** CSS, arghhhhhhhhhhh!!!
+
+**Link to work:**  ~Private repo~
+
+### Day 6: March 4, 2019
+
+**Today's Progress**: Designed an XML layout for user posts and home activity for the private repo for college and discussed the structure of the project with college authorities. 
+
+**Thoughts:** Can't a single view be used for displaying texts/ images/ videos according to the user's input? 🤔
+
+**Link to work:**  will be updated soon.
+
 
